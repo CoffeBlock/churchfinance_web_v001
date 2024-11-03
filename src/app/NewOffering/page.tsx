@@ -39,6 +39,7 @@ export default function Home() {
           {/* Get using a API call, This is a place holder. Rewrite later to add search names */}
         </select>
         <input type="number" placeholder="Type here" className="input input-bordered w-full max-w-xs" />
+        <button className="btn w-full max-w-xs">Save</button>
       </label>
     </main>
   );
